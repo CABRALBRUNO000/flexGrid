@@ -1,2 +1,0 @@
-# flexGrid
-Created with CodeSandbox
