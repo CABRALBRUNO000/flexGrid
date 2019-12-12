@@ -5,3 +5,4 @@ Created with CodeSandbox
 
 ### This small project was created to pratice FlexBox and FlexGrid.
 
+<img src="https://github.com/CABRALBRUNO000/flexGrid/blob/master/view.png">
